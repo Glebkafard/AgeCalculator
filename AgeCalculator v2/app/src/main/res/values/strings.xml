@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Age calculator</string>
+    <string name="login_text">Вход в приложение</string>
+    <string name="login_login">Логин</string>
+    <string name="login_password">Пароль</string>
+    <string name="login_button">Войти</string>
+    <string name="login_empty">Данные не введены</string>
+    <string name="login_error">Не удалось войти</string>
+    <string name="birthday_input">Введите вашу дату рождения:</string>
+    <string name="birthday_hint">Дата рождения</string>
+    <string name="date_format">%02d.%02d.%04d</string>
+    <string name="result_text">Возраст:\nВ секундах: %d\nВ минутах: %d\nВ часах: %d\nВ днях: %d\nВ годах: %d\n\nДней до следущего\nдня рождения: %d</string>
+</resources>
