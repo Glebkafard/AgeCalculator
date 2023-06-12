@@ -62,7 +62,7 @@ public class LoginActivity extends AppCompatActivity {
         HashMap<String, String> map = new HashMap<>();
         map.put("lgn", login);
         map.put("pwd", password);
-        map.put("g", "RIBO-03-21");
+        map.put("g", "RIBO-04-21");
         HttpRunnable httpRunnable = new HttpRunnable(address, map);
         Thread thread = new Thread(httpRunnable);
         thread.start();
